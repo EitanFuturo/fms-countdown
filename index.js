@@ -1,6 +1,6 @@
 let clock, startButton, seconds
 let newClockTriggered = true
-let bpmDefault = 90
+let bpmDefault = 95
 let numberOfPatternsDefault = 6
 
 window.onload = () => {
